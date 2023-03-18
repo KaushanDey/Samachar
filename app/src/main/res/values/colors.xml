@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282b33</color>
+    <color name="colorPrimaryDark">#282b33</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="titleTextColor">#131214</color>
+    <color name="subTitleTextColor">#333233</color>
+    <color name="bgLineColor">#606470</color>
+    <color name="background">#dddddd</color>
+    <color name="card_color">#2e343d</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="black">#000000</color>
+</resources>
